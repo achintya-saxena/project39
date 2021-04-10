@@ -16,7 +16,7 @@ function preload() {
 plane1Img=loadImage("images/plane1.png");
 plane2Img=loadImage("images/plane2.png");
 
-track=loadImage("images/bg.PNG");
+track=loadImage("images/bg.jpg");
 
 
 }
